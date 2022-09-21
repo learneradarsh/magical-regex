@@ -1,0 +1,24 @@
+{
+  "name": "magical-regex",
+  "version": "1.0.0",
+  "description": "It will make your life easy when you deal with regex. Now you don't need to deal with bulky chars to use regex",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/learneradarsh/magical-regex.git"
+  },
+  "keywords": [
+    "regex",
+    "magical",
+    "regex"
+  ],
+  "author": "Adarsh Pandey (https://learneradarsh.github.io/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/learneradarsh/magical-regex/issues"
+  },
+  "homepage": "https://github.com/learneradarsh/magical-regex#readme"
+}
