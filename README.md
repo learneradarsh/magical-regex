@@ -11,7 +11,7 @@ console.log(magicalRegex.isValidEmail('abc@gmail.com')); // this will return tru
 
 You think you want to pass your own regex, you can!
 const myDummyRegexPattern = /h/
-console.log(magicalRegex.isValidEmail('abc@gmail.com', myDummyRegexPatter));
+console.log(magicalRegex.isValidEmail('abc@gmail.com', myDummyRegexPattern));
 
 
 Enjoy and do share your feedback with me.
